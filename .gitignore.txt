@@ -1,0 +1,5 @@
+# ignored components #
+ /target
+.settings
+.classpath
+.project
